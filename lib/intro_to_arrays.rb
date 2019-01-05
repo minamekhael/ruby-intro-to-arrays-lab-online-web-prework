@@ -17,6 +17,8 @@ def third_element(num)
 end
 
 def last_element(num)
-  array = ["shamwow", "wow", "Style"]
+  array = ["shamwow", "wow", "Out of The Woods"]
   array[2]
 end
+
+def first_element_with_array_methods(num)
