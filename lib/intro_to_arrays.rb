@@ -22,3 +22,4 @@ def last_element(num)
 end
 
 def first_element_with_array_methods(num)
+  array = ["shamwow", "wow", "Out of The Woods"]
