@@ -26,4 +26,5 @@ def first_element_with_array_methods(first_country)
   array[0]
 end
 
-def 
+def last_element_with_array_methods(num)
+end
