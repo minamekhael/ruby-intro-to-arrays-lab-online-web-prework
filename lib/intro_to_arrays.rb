@@ -21,6 +21,7 @@ def last_element(num)
   array[2]
 end
 
-def first_element_with_array_methods(num)
-  array = ["shamwow", "wow", "Out of The Woods"]
+def first_element_with_array_methods(first_country)
+  array = ["Thailand", "Egypt", "France", "Germany"]
+  first_country = array[0]
 end
