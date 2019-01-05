@@ -25,3 +25,5 @@ def first_element_with_array_methods(first_country)
   array = ["Thailand", "Egypt", "France", "Germany"]
   array[0]
 end
+
+def 
