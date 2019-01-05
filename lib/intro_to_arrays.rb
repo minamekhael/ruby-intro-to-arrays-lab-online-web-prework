@@ -33,5 +33,5 @@ end
 
 def length_of_array(x)
   array = ["Thailand", "Egypt", "France", "Myanmar", "Germany", "Spain", "Mexico", "Canada"]
-  length_of_array = 
+  length_of_array = array.length 
 end
