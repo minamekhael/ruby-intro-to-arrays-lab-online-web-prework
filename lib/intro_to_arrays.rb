@@ -30,3 +30,6 @@ def last_element_with_array_methods(last_country)
   array = ["Thailand", "Egypt", "France", "Myanmar"]
   array[3]
 end
+def length_of_array
+  array = ["Thailand", "Egypt", "France", "Myanmar"]
+end
